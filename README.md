@@ -95,6 +95,14 @@ I also love writing, drawing, singing, dancing and kinda all types of art!!💖
   </tbody>
 </table>
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href="https://profile.codersrank.io/user/Stephia/">
+  <img src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=Stephia&padding=30&skills=c,C%23,html,javascript,mysql,php,python">
+  </a>
+</details>
+
 <h2 align="center">           📫 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📫</h2>
   <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlhb2JpNzRzOWdoMzloNThzNmJlbmx1OWQ2OTExZHUyZzJjMHJwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pTSYk1VW66Xhx9HJL8/giphy.gif" align="right" width="365px" height="208.5px">
