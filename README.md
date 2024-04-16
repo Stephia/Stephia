@@ -60,6 +60,7 @@ I also love writing, drawing, singing, dancing and kinda all types of art!!💖
 <img  src="https://github-readme-stats.vercel.app/api?username=Stephia&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  <!--
 <p align="center" >  
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephai&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-langs"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Stephia&&show_icons=true&theme=radical"/>
@@ -69,7 +70,7 @@ I also love writing, drawing, singing, dancing and kinda all types of art!!💖
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephai&theme=dark](https://git.io/streak-stats)"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Stephia&&show_icons=true&theme=radical"/>
   </a>
-  </p>
+  </p> -->
 
 </p>
 <table>
